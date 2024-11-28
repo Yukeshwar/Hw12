@@ -1,2 +1,3 @@
 # Hw12
  
+For this project, I have created a password machine that checks a specific sequence of inputs: pressing Button 2, turning the potentiometer to the rightmost position, and pressing Button 1. The system uses the Serial Monitor to display whether the entered code is correct or incorrect. I know the assignment required the use of two LED lights, one to indicate success and another for failure, but unfortunately, I gave away all my LEDs without fully reading the requirements. To make up for it, I’ve submitted two videos showing how the system works: one for a correct code and one for an incorrect attempt. If you’d still like me to include the LED functionality, I can probably get it done by next week. Sorry about that!
